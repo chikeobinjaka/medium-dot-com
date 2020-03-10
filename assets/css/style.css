@@ -36,6 +36,23 @@ p.header {
 }
 
 .pt-carousel {
-  height: 300px;
+  height: 420px;
   background-color: aquamarine;
+}
+
+.pt-carousel-text {
+  color: black;
+  font-size: 30px;
+  font-weight: bolder;
+  line-height: 1;
+}
+
+.pt-carousel-label {
+  color: brown;
+  font-size: 20px;
+}
+
+.pt-enhanced-p {
+  font-weight: bolder;
+  font-size: 20px;
 }
